@@ -14,5 +14,7 @@ public class Merhaba {
             System.out.println("mer");
             sayac++;
         }
+
+        System.out.println("test");
     }
 }
