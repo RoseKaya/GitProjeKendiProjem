@@ -8,6 +8,10 @@ public class Merhaba {
             System.out.println("Merhaba "+i);
         }
 
+        System.out.println("mer");
 
+        for (int i = 0; i < 5; i++) {
+            System.out.println("yeni merhaba");
+        }
     }
 }
