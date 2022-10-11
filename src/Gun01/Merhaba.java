@@ -9,7 +9,7 @@ public class Merhaba {
         }
 
         int sayac=0;
-        while (sayac<5)
+        while (sayac<5 )
         {
             System.out.println("mer");
             sayac++;
